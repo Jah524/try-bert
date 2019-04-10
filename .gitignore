@@ -1,3 +1,4 @@
 *~
 model/*
 !model/download-model.sh
+.ipynb_checkpoints/
