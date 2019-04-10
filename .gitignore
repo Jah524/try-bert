@@ -1,4 +1,5 @@
 *~
 model/*
 !model/download-model.sh
+!model/bert_config.json
 .ipynb_checkpoints/
